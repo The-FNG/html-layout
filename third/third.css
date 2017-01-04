@@ -1,0 +1,48 @@
+.Gray{
+    position: relative;
+    background: #D8D8D8;
+    height: 15vh;
+    width: 100vw;
+    
+
+
+}
+.GrayBlue{
+    position: absolute;
+    background: #4A90E2;
+    height: 60px;
+    width: 60px;
+    text-align: center;
+    line-height: 12vh;
+    font-size: 30px;
+    color: black;
+    margin: 9px 9px;    
+}
+.TextBox{
+    height: 30vh;
+    width: 100vw;
+    
+}
+.Blue{
+    background: #4A90E2; 
+    height: 15vh;
+    width: 100vw;
+}
+.Turquoise{
+    background:#50E3C2;
+    height: 15vh;
+    width: 100vw;
+}
+.Sulu{ 
+    background: #B8E986;
+    height: 15vh;
+    width: 100vw;
+}
+.Yellow{
+    background: #F8E71C;
+    height: 15vh;
+    width: 100vw;
+}
+body{
+    margin: 0;
+}

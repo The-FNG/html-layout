@@ -1,0 +1,22 @@
+.Header{
+    background: #484848;
+    height: 200px;
+    width: 100vw;
+}
+.Body{
+    background: white;
+    height: 600px;
+    width: 70vw;
+    margin: auto;
+
+}
+.Footer{
+  background: #000;
+  height: 90px;
+  width: 70vw;
+  margin: auto;
+}
+body{
+background: lightgray;
+margin: 0;
+}

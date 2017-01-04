@@ -1,0 +1,33 @@
+.Blue{
+    background: #4A90E2;  
+}
+.Turquoise{
+    background:#50E3C2;
+}
+.Sulu{
+    position: relative;
+    background: #B8E986;
+}
+.Venetian-Red{
+    position: absolute;
+    bottom: 0%;
+    background: #D0021B;
+    height: 20%;
+    width: 100%;
+    text-align: center;
+    line-height: 12vh;
+    font-size: 30px;
+    color: white;
+    
+    
+    
+}
+.column{
+    width: calc(100%/3); 
+    height: 100vh;
+    float: left;
+}
+ 
+body{
+    margin: 0;
+}
